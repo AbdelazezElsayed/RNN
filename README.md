@@ -24,4 +24,8 @@ Zero-initialized biases
 
 
 
+Learining rate 0.1
+
+
+
 Backpropagation through time to adjust weights and biases
